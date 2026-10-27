@@ -19,5 +19,6 @@
 0. [Drafts AI: Subject to blog in seconds](https://www.draftsai.com/)
 0. [Arktan: Discover and compare 5200+ best AI tools for you and your business](https://arktan.com/)
 0. [FutureTools: FutureTools Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!](https://www.futuretools.io/)
+0. [RespawnStack: Free AI directory for game development tools](https://respawnstack.com/)
 0. [Mainions: Passionate AI minions for hire](https://mainions.com/)
 
